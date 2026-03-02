@@ -18,7 +18,7 @@ export function Footer() {
               关于我们
             </a>
             <span>·</span>
-            <span>© 2026 HASANNU</span>
+            <span>© 2026 HSANNU</span>
           </div>
         </div>
       </Container>
