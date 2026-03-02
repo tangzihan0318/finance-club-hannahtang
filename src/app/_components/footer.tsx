@@ -11,11 +11,11 @@ export function Footer() {
           </h3>
           <div className="flex justify-center space-x-6 text-sm text-neutral-500">
             <a href="mailto:finance@hasannu.edu" className="hover:text-blue-600">
-              联系我们
+              联系我们 Hannah090318  supersulis
             </a>
             <span>·</span>
             <a href="/about" className="hover:text-blue-600">
-              关于我们
+              关于我们 HSANNU finance club
             </a>
             <span>·</span>
             <span>© 2026 HSANNU</span>
