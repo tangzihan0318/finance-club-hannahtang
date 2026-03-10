@@ -7,25 +7,10 @@ const lectures = [
     id: 1,
     title: "Lecture 1: Introduction to Finance",
     date: "2026-03-10",
-    description: "金融学入门：货币时间价值、金融市场概述",
+    description: "金融学基本概念",
     slug: "lecture-1-intro-to-finance"
   },
-  {
-    id: 2,
-    title: "Lecture 2: Stock Market Basics",
-    date: "2026-03-07",
-    speaker: "Dr. Johnson",
-    description: "股票市场基础：如何看K线图、交易机制",
-    slug: "lecture-2-stock-market-basics"
-  },
-  {
-    id: 3,
-    title: "Lecture 3: Portfolio Management",
-    date: "2026-03-14",
-    speaker: "Prof. Williams",
-    description: "投资组合管理：风险分散、资产配置",
-    slug: "lecture-3-portfolio-management"
-  }
+
 ];
 
 export default function LectureReview() {
@@ -36,7 +21,7 @@ export default function LectureReview() {
         <div className="mt-16 mb-12">
           <h1 className="text-5xl font-bold mb-4">📚 Lecture Reviews</h1>
           <p className="text-xl text-gray-600">
-            回顾往期讲座，巩固金融知识
+            回顾往期内容，巩固金融知识
           </p>
         </div>
 
